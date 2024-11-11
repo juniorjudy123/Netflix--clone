@@ -6,7 +6,7 @@
 
 # Features
 
-        #Browse page(after authentication)
+        #Browse page/main page(after authentication)
         - Header/navbar
         - Hero component
             -trailer
@@ -18,3 +18,11 @@
 
     2. Login/sign-in sign-up form
         -once signed in directs to browse page
+
+# what i have implemented till now?
+
+    - CRA and set up tailwind css
+    -created loginpage,mainpage
+    -react routing
+    -Header
+    -Login Form
