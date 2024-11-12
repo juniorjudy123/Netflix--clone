@@ -10,7 +10,7 @@ const Loginpage = () => {
 				alt="bg-img"
 				className=" object-cover absolute w-full h-full  "
 			></img>
-			<div className="absolute inset-0 bg-black opacity-50"></div>
+			<div className="absolute inset-0 bg-black opacity-65"></div>
 			<HeaderComponent />
 			<div>
 				<form

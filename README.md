@@ -26,3 +26,8 @@
     -react routing
     -Header
     -Login Form
+
+# main page
+
+    -called the Header component
+    -registered for tmdb api and get call for fetching
