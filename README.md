@@ -31,3 +31,11 @@
 
     -called the Header component
     -registered for tmdb api and get call for fetching
+    -Get data from the api now playing list
+    -create custom hook for now playing movies
+    -create movieSlice
+    -update store with movies Data
+    -planning for Maincontainer and secondary container
+    -Fetch data for trailer video
+    -update store with trailer video data
+    -embedded youtube video and make it autoplay and mute
